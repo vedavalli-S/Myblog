@@ -21,22 +21,23 @@ In today's fast-paced tech landscape, delivering high-quality software rapidly i
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Enable GitHub Pages
+## What is Functionize?
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+_Functionize is a cloud-based testing platform that uses artificial intelligence and machine learning to automate the software testing process. Unlike conventional testing tools that require extensive scripting and manual intervention, Functionize automates the creation, execution, and maintenance of tests, making it easier for development teams to integrate testing into their continuous integration and continuous deployment (CI/CD) pipelines.
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+### :Key Features of Functionize
 
-### :keyboard: Activity: Enable GitHub Pages
+1.**AI-Powered Test Creation:**
+•	Functionize's Adaptive Language Processing (ALP) engine allows users to create tests using natural language. This feature simplifies the test creation process, making it accessible even to non-technical team members. Users can describe their tests in plain English, and the ALP engine translates these descriptions into executable test scripts.
+2.	**Self-Healing Tests:**
+•	One of the standout features of Functionize is its self-healing capability. Traditional automated tests often break when there are changes in the application under test (AUT). Functionize uses machine learning to detect and adapt to changes in the application automatically, reducing the maintenance burden and ensuring that tests remain reliable over time.
+3.	**Smart Test Execution:**
+•	Functionize optimizes test execution by analyzing the application and determining the most efficient way to run tests. It prioritizes tests based on risk and impact, ensuring that critical functionalities are tested first. This smart execution helps in identifying potential issues early in the development cycle.
+4.	**Visual Testing:**
+•	The platform incorporates visual testing, where it compares the current state of the application with baseline images to detect UI anomalies. This feature is particularly useful for identifying visual bugs that might be missed by traditional testing methods.
+5.	**Detailed Reporting and Analytics:**
+•	Functionize provides comprehensive reports and analytics, offering insights into test performance, trends, and potential areas of improvement. The intuitive dashboards and visualizations help teams understand the testing progress and make data-driven decisions.
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
 
 <footer>
 
